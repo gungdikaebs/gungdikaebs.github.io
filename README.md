@@ -1,1 +1,0 @@
-# gungdikaebs.github.io
