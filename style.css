@@ -1,9 +1,9 @@
 #bodyblur img {
   justify-content: center;
   opacity: 0.5;
-  width: 520px;
+  width: 65vh;
   height: 100vh;
-  padding-left: 70vh;
+  padding-left: 75vh;
 }
 #kalimat {
   font-family: 'Poppins', sans-serif;
