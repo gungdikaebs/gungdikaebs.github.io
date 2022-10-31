@@ -1,9 +1,12 @@
+#bodyblur {
+  display:flex;
+  position:fixed;
+  justify-content:center;
+}
+
 #bodyblur img {
-  justify-content: center;
   opacity: 0.5;
-  width: 65vh;
-  height: 100vh;
-  padding-left: 75vh;
+  width: 50vh;
 }
 #kalimat {
   font-family: 'Poppins', sans-serif;
